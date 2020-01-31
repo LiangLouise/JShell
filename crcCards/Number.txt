@@ -1,0 +1,10 @@
+Class name: Number
+Parent class (if any):Command
+Subclasses (if any):N/A
+Responsibilities:
+* Execute the Commands entered previously with respect to its index in the
+history
+
+Collaborators:
+* Output
+* OperatorSystem

@@ -1,0 +1,49 @@
+//Sprint #3 Backlog.  
+June 27th to June 29th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a JShell user, I want to exit and close the program. ( exit ) -- 3
+b) As a JShell user, I want to create directory in my current-working-directory (or any address I want to create). ( mkdir DIR ) -- 3
+c) As a JShell user, I want to check all the files and directories in current-working-directory (or any directory I want to check). ( ls ) -- 3
+d) As a JShell user, I want to change my current-working-directory to any address I want. ( cd DIR ) -- 3
+e) As a JShell user, I want to get the address of current-working-directory. ( pwd ) -- 3
+f) As a JShell user, I want to see the content of a file or several other files. ( cat FILE1 [FILE2] ) -- 6
+g) As a JShell user, I want to see the content of a file and also be able to write the content in other files. ( echo FILE1 [> FILE2] ) -- 9
+h) As a JShell user, I want to see the user manual with the usage of all functions for this JShell program. ( man CMD ) -- 9
+i)As a JShell user, I want to find Directory and file with name input at the specific Directory. (find) -- 7
+j)As a JShell user, I want to see how all the directories and files are related to the root with a tree-like format. (tree) --3
+
+
+Specific tasks to be accomplished:
+[Preparation for Single Command]
+	f-2.	ManEnum
+	f-3.	OperatingSystem
+
+[Single Command]
+	e-3.	exit
+		man
+	e-4.	ls
+	e-5.	pwd
+		cat FILE1 [FILE2]
+	e-6.	push DIR / pop DIR
+	e-7.	echo FILE1 [> FILE2]
+	e-8.	history
+	e-9.    tree
+	f-1. 	(Error)
+
+These tasks are assigned as follows:
+
+User: liangh21
+Tasks: e-3,e-4,f-1, f-2
+
+User: liushina
+Tasks: e-5,e-6,f-1, f-3
+
+User: chenz145
+Tasks: e-7,f-1
+
+User: liang101
+Tasks: e-8, e-9
+
+

@@ -1,0 +1,10 @@
+a) What did I work on last time?
+       - Test the whole system
+       - Write some protections for crashing situation
+       - b-1, c-3, c-4, e-3, e-4, f-1, f-2 from SP4       
+b) What do I plan to work on now?
+       - Check the format
+       - Check all the document
+       - Done!
+c) Am I blocked on anything?
+       - There may be some cases that we did not consider about so only general error was created for those situations

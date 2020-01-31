@@ -1,0 +1,12 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - Help other teammate with testing and test my own code
+       - Double check we did not have the same problems from the previous assignment
+       - a-2, a-3, h-1, h-2, j-3, j-4 from SB7
+
+b) What do I plan to work on now?
+       - None
+
+c) Am I blocked on anything?
+       - No
+

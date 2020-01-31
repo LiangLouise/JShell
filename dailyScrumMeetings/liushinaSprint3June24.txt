@@ -1,0 +1,14 @@
+a) What did I work on last time?
+       - Debug the Operate System finished
+       - OperateSystem have history stack now
+       - Cat, Pwd, Popd and Pushd finished
+       - d-1, d-2, d-3 from SB2
+
+b) What do I plan to work on now?
+       - Debug Cat, Pwd, Popd and Pushd
+       - Check the process of the whole system
+       -  e-1, e-5 from SB2
+
+c) Am I blocked on anything?
+       - I need command ls, mkdir, echo to be finished first to start
+         the debug

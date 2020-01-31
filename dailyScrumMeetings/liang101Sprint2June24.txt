@@ -1,0 +1,9 @@
+What did I do last time?
+    -- Finish the code for Mkdir Command
+
+What do I plan to do now?
+	-- Begin to write the Cd Command
+    -- Create some test cases for Cd Command
+
+Am I blocked on anything?
+    - N/A

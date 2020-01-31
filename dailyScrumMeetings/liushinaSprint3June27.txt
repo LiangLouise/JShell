@@ -1,0 +1,12 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - Pwd and Popd and Pushd are fine now
+       -  e-1, e-5 from SB2
+
+b) What do I plan to work on now?
+       - Debug Cat
+       - Writing Test situations for Cat, Pwd, Popd and Pushd
+       - e-5,e-6,f-1 from SB3
+
+c) Am I blocked on anything?
+       - No

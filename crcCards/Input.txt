@@ -1,0 +1,10 @@
+Class name: Input
+Parent class (if any):
+Subclasses (if any):
+Responsibilities:
+* Recognize Commands, Files, Directories in user's typing input
+* Sort command lines by certain command words
+* Create specific command class and pass the sorted input arguments
+Collaborators:
+* Command
+* OperatorSystem

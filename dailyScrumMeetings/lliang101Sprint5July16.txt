@@ -1,0 +1,11 @@
+What did I do last time?
+    -- Create CRC cards for Curl
+    -- Implement Curl class to code
+    -- add some test cases for CURL
+
+What do I plan to do now?
+	-- Check if there is any bug still existing
+	-- change to way to create the command
+
+Am I blocked on anything?
+    - N/A

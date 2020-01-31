@@ -1,0 +1,11 @@
+Class name: File
+Parent class (if any): Storage
+Subclasses (if any): 
+Responsibilities:
+* Receive content passed in by users
+* Provide information for users to mutate
+* Capable of storing alone with other information
+Collaborators:
+*
+*
+*

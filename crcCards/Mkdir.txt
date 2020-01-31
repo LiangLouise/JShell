@@ -1,0 +1,11 @@
+Class name: Mkdir
+Parent class (if any):Command
+Subclasses (if any):
+Responsibilities:
+* Generate a new Directory in current-working-directory or the input path.
+* Generate multiple directorys at the same time
+*
+Collaborators:
+* Output
+* OperatorSystem
+*

@@ -1,0 +1,8 @@
+What did I do last time?
+    - almost finish input
+
+What do I plan to do now?
+    - debug the current code
+ 
+Am I blocked on anything?
+    - how input creat command

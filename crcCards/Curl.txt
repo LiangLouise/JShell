@@ -1,0 +1,10 @@
+Class name: Curl
+Parent class (if any):Command
+Subclasses (if any):N/A
+Responsibilities:
+* Retrieve the file at the input URL
+* Create the new file with the content stored at that URL
+
+Collaborators:
+* Output
+* OperatorSystem

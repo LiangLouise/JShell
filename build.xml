@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="BuildA2"  basedir="." default="run_test">
+
+    <!-- global properties -->
+    <property name="src.dir"     value="src"/>
+    <property name="test.dir" value="${src.dir}/test"/>
+    <property name="build.dir"   value="build"/>
+    <property name="classes.dir" value="${build.dir}/classes"/>
+    <property name="build.test.dir" value="${build.dir}/test"/>
+    <property name="test.classes.dir" value="${build.test.dir}/classes"/>
+    <property name="lib.dir"     value="C:/apache-ant-1.9.13/lib"/>
+    <property name="jar.dir"     value="${build.dir}/jar"/>
+    <property name="testReport.dir"
+              value="${build.test.dir}/testReport"/>
+    <property name="JarName" value="Assignment2B"/>
+    <property name="main_class" value="driver.JShell"/>
+
+    <path id="A2" location="${jar.dir}/${JarName}.jar"/>
+
+    <path id="lib_path">
+        <fileset dir="${lib.dir}" includes="*.jar" />
+    </path>
+
+    <path id="compile_path">
+        <path refid="lib_path" />
+        <pathelement location="${classes.dir}"/>
+    </path>
+
+    <path id="compile_test_path">
+        <path refid="compile_path" />
+        <pathelement location="${classes.dir}"/>
+    </path>
+
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+    </target>
+
+    <target name="init">
+        <mkdir dir="${build.dir}"/>
+        <mkdir dir="${classes.dir}"/>
+        <mkdir dir="${build.test.dir}"/>
+        <mkdir dir="${test.classes.dir}"/>
+        <mkdir dir="${testReport.dir}"/>
+    </target>
+
+
+    <target name="compile" depends="init">
+        <javac srcdir="${src.dir}"
+               excludes="${src.dir}/test"
+               destdir="${classes.dir}"
+               classpathref="compile_path"
+               includeantruntime="true">
+        </javac>
+    </target>
+
+    <target name="compile.test" depends="compile">
+        <javac srcdir="${test.dir}" destdir="${test.classes.dir}" classpathref="compile_test_path"
+               includeantruntime="true"/>
+    </target>
+
+    <target name="jar" depends="compile">
+        <mkdir dir="${jar.dir}"/>
+        <jar destfile="${jar.dir}/${JarName}.jar"
+             basedir="${classes.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="${main_class}"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="run" depends="jar">
+        <java fork="true" classname="${main_class}"/>
+    </target>
+
+    <target name="run_test" depends="clean, compile.test">
+        <echo>Begin the unit test</echo>
+        <junit printsummary="yes" haltonfailure="yes" haltonerror="yes">
+            <classpath refid="compile_test_path"/>
+            <formatter type="plain"/>
+            <batchtest todir="${testReport.dir}">
+                <fileset dir="${test.classes.dir}/test" includes="**.class"/>
+            </batchtest>
+        </junit>
+        <junitreport todir="${testReport.dir}">
+            <fileset dir="${testReport.dir}" includes="TEST-*.txt"/>
+            <report format="frames" todir="${testReport.dir}"/>
+        </junitreport>
+    </target>
+
+    <target name="end" depends="run_test">
+        <echo>6.test finished</echo>
+    </target>
+
+</project>

@@ -1,0 +1,11 @@
+Class name: Ls
+Parent class (if any):Command
+Subclasses (if any):
+Responsibilities:
+* Display all Files and Directories in current-working-directory.
+* Display all files and dirctorys in input path
+*
+Collaborators:
+* Output
+* OperatorSystem
+*

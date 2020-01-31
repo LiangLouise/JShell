@@ -1,0 +1,10 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - start to write cp command
+
+b) What do I plan to work on now?
+       - Write Testing Cases / Do research for unit testing
+       - finish cp command
+
+c) Am I blocked on anything?
+       - No

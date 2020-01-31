@@ -1,0 +1,48 @@
+//Sprint #6 Backlog.
+July 17th to July 21st
+
+User Stories from Product Backlog that we will address in this sprint:
+
+Some new tasks added alone the way we created different commands:
+1. As a JShell User, I want to apply redirection to all valid commands except exit.
+
+Specific tasks to be accomplished:
+
+1.Redesign for All valid commands:
+	h-1. change Input according to the redirection function
+	h-2. change command according to the redirection function
+
+	[redirection]:
+	1. Split Errors / ContentMessage
+	2. Use Echo to write the contentMessage
+
+2.Preparation for Single Command: (from previous sprints)
+
+	a-2. (Ls) Add newly added requirements from A2B
+	d-2. (Cat) Add newly added requirements from A2B
+	e-2. (Curl) Implementation for the Curl Command
+	g-2. (Grep) Implementation for the Grep Command
+	f-2. (!number) Implementation for the !number Command
+
+3.Unit Tests for all commands
+	a-3. (Ls) Add Test Cases
+	b-3. (Mv) Add Test Cases
+        c-3. (Cp) Add Test Cases
+        d-3. (Cat) Add Test Cases
+        e-3. (Curl) Add Test Cases
+        f-3. (!number) Add Test Cases
+        g-3. (Grep) Add Test Cases
+
+These tasks are assigned as follows:
+
+User: liangh21
+Tasks: a-2, a-3, h-1, h-2
+
+User: liushina
+Tasks: g-2, g-3, h-1, h-2
+
+User: chenz145
+Tasks: d-2, d-3,h-1, h-2, b-3, c-3
+
+User: liang101
+Tasks: e-2, f-2, e-3, f-3, h-1, h-2

@@ -1,0 +1,11 @@
+Class name: Cat
+Parent class (if any):Command
+Subclasses (if any):
+Responsibilities:
+* Display(print out) the content in the input file
+* Display the concatenated contents of each file in the input
+*
+Collaborators:
+* Output
+* OperatorSystem
+* 

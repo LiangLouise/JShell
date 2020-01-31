@@ -1,0 +1,11 @@
+Class name: Find
+Parent class (if any):Command
+Subclasses (if any):
+Responsibilities:
+* Find files or directorys in multiple path
+* Print found and not found path for user 
+*
+Collaborators:
+* Output
+* OperatorSystem
+*

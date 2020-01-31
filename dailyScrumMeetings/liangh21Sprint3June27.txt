@@ -1,0 +1,14 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - ls, exit, output, error all finished
+       - Demo created for demo running, testing cases added
+       - e-3, e-4, f-1 from SB2
+
+b) What do I plan to work on now?
+       - create a better demo, debug more so more features can be added
+       - Writing Test situations for ls, exit, output, error
+       - f-2 from SB3
+
+c) Am I blocked on anything?
+       - Error and Man System should be created and mantained in a proper way
+

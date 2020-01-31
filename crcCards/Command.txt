@@ -1,0 +1,12 @@
+Class name: Command
+Parent class (if any):
+Subclasses (if any):Cat, Cd, Echo, Exit, Ls, Mkdir, Pwd,Find, History, 
+                     Tree, Popd, Pushd, Man
+Responsibilities:
+*Execute and process operations based on input.
+*Generate error message if any operations fail
+*
+Collaborators:
+* Output
+* OperatorSystem
+*

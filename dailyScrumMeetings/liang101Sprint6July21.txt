@@ -1,0 +1,13 @@
+What did I do last time?
+    -- Create CRC cards for !Number
+    -- Implement Number class to code
+    -- add some test cases for Number class and previous commands written by me
+    -- Change the way to create command by using reflection
+    -- Has begun to write build.xml
+
+What do I plan to do now?
+	-- Check if there is any bug still existing
+	-- think about how to finish the build.xml with unitTest
+
+Am I blocked on anything?
+    - N/A

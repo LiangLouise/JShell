@@ -1,0 +1,10 @@
+What did I do last time?
+    - finish input
+    - create some test cases for input
+
+What do I plan to do now?
+    - debug the current code
+    - get start to work on command echo
+ 
+Am I blocked on anything?
+    - echo has a different kind of input(it can have whitespace inside the string)

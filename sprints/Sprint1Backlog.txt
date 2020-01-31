@@ -1,0 +1,31 @@
+//Sprint # Backlog.  
+June 15th to June 18th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a JShell user, I want to exit and close the program. ( exit ) -- 3
+b) As a JShell user, I want to create directory in my current-working-directory (or any address I want to create). ( mkdir DIR ) -- 3
+c) As a JShell user, I want to check all the files and directories in current-working-directory (or any directory I want to check). ( ls ) -- 3
+
+
+Specific tasks to be accomplished:
+a-1. (JShell) write a set of constructors and necessary methods/parameters
+b-1. (Driver) Have the shell continually prompt the user for input
+c-1. (Input) Parse the user input for proper keywords
+d-1. (Storage) write a set of constructors and necessary methods/parameters
+
+
+These tasks are assigned as follows:
+
+User: liangh21
+Tasks: b-1
+
+User: liushina
+Tasks: d-1
+
+User: chenz145
+Tasks: c-1
+
+User: liang101
+Tasks: a-1
+

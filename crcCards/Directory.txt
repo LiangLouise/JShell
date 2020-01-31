@@ -1,0 +1,11 @@
+Class name: Directory
+Parent class (if any): Storage
+Subclasses (if any): 
+Responsibilities:
+* Store Files and directorys passed in by users
+* Provide information for users to mutate
+* Capable of maintain links with other files/directories
+Collaborators:
+*File
+*Directory
+*

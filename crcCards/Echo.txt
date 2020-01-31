@@ -1,0 +1,11 @@
+Class name: Echo
+Parent class (if any): Command
+Subclasses (if any):
+Responsibilities:
+* Put the input string into the input file
+* Append the input string into the input file
+* Print the input string to the console
+Collaborators:
+* Output
+* OperatorSystem
+*

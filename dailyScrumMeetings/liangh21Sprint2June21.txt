@@ -1,0 +1,16 @@
+a) What did I work on last time?
+       - Updated new crc Cards
+       - Creat Output class and added setter/getter functions to it
+       - update other classes and JShell to work with Output System
+       - Finished Command design and implementation of Exit function
+       - c-3, c-4 from SB2
+
+b) What do I plan to work on now?
+       - Debug the exit and Output class
+       - Work on ls class
+       - Discussing with teamates about future tasks
+       - e-3, f-1 from SB2
+
+c) Am I blocked on anything?
+       - how to handle error message
+       - how to set a database for error system

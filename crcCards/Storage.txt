@@ -1,0 +1,11 @@
+Class name: Storage
+Parent class (if any): 
+Subclasses (if any): File, Directory
+Responsibilities:
+* Store the content in different storage formats
+* Present several characteristics of stored information
+*
+Collaborators:
+*
+*
+*

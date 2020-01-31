@@ -1,0 +1,12 @@
+Class name: Error
+Parent class (if any): 
+Subclasses (if any):
+Responsibilities:
+* Present system error when user called invalid commands
+* Present storage error when user inappropriately used the storage space
+*
+Collaborators:
+* 
+*
+*
+

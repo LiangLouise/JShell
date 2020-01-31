@@ -1,0 +1,10 @@
+What did I do last time?
+    - fix some small problem about code
+    - improve comment and java doc
+
+What do I plan to do now?
+    - N/A
+
+ 
+Am I blocked on anything?
+    - N/A

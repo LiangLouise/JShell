@@ -1,0 +1,9 @@
+Class name: Output
+Parent class (if any):
+Subclasses (if any):
+Responsibilities:
+* Display the result (in form of storage) of an operation from users
+* Display the Error of an operation from users
+*
+Collaborators:
+*Error

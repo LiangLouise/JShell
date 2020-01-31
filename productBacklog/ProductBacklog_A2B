@@ -1,0 +1,10 @@
+UserStory -- Estimate
+As a JShell User, I want to be able to recursively list all subdirectories (Ls) -- 3
+As a JShell User, I want to move item from OLDPATH to NEWPATH (Mv) -- 6
+As a JShell User, I want to copy and paste items from OLDPATH to NEWPATH (Cp) -- 6
+As a JShell User, I want to display the contents of all FILE when I call CAT method (Cat) -- 3
+As a JShell User, I want to retrieve the file at specific URL and add it to the current working directory. (Curl) -- 6
+As a JShell User, I want to immediatly execute the previous command that I entered according to the number I chose (!number) -- 6
+As a JShell User, I want to print any lines containing REGEX in a file, or recursively traverse the directory for lines containing REGEX (Grep) -- 6
+As a JShell User, I want to apply redirection to all valid commands except exit. -- 6
+As a JShell User, I want to apply singleton to the system, when I have multiple shell, they have the same storage. --6

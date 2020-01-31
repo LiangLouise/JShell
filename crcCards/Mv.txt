@@ -1,0 +1,11 @@
+Class name: Mv
+Parent class (if any):Command
+Subclasses (if any):N/A
+Responsibilities:
+* Move the file or the entire DIR at the OLDPATH into the new DIR
+if the input NEWPATH is a DIR.
+
+Collaborators:
+* Output
+* OperatorSystem
+

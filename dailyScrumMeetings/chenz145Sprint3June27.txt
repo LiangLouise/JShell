@@ -1,0 +1,9 @@
+What did I do last time?
+    - help debug and create test cases
+
+What do I plan to do now?
+    - run the whole java project to check if those command work or not
+
+ 
+Am I blocked on anything?
+    - how to test code efficiently

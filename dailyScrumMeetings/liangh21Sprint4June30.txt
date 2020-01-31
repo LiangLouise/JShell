@@ -1,0 +1,10 @@
+a) What did I work on last time?
+       - create a better demo, debug more so more features can be added
+       - Writing Test situations for ls, exit, output, error and Man
+       - f-2 from SB3       
+b) What do I plan to work on now?
+       - Test the whole system
+       - Write some protections for crashing situation
+       - b-1, c-3, c-4, e-3, e-4, f-1, f-2 from SP4
+c) Am I blocked on anything?
+       - No

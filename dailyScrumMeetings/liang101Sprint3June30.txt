@@ -1,0 +1,10 @@
+What did I do last time?
+    -- Finish the History
+    -- Help the other members debug on their works
+    
+What do I plan to do now?
+	-- Check if there is any bug still existing
+	-- Start to work on the new command Tree
+
+Am I blocked on anything?
+    - N/A

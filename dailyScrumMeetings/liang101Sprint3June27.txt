@@ -1,0 +1,11 @@
+What did I do last time?
+    -- Finish the code for Cd Command
+
+What do I plan to do now?
+	-- Begin to write the History Command
+    -- Create some test cases for Cd Command
+    -- Add the usage information for Mkdir, Cd and history in Man
+    -- Add the error message for Mkdir, Cd and history
+
+Am I blocked on anything?
+    - N/A

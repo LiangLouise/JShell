@@ -1,0 +1,11 @@
+Class name: Operate System
+Parent class (if any):
+Subclasses (if any):
+Responsibilities:
+* Keep records on command history, directory footprint and current directory
+* Process operations and giving feed back to users
+* Store the storage system
+Collaborators:
+* Directory
+* File
+* Input

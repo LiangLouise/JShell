@@ -1,0 +1,14 @@
+a) What did I work on last time?
+       - Debugging for exit and Output finished
+       - Output is created alone with an Error system
+       - chosen to use Enum class to set Error System
+       - e-3, f-1 from SB2
+
+b) What do I plan to work on now?
+       - Debugging and testing other partners' works
+       - Check the process of the whole system
+       - Discussion about the future process and tasks
+       - f-1 from SB2
+
+c) Am I blocked on anything?
+       - Can Enum be accessed by other classes with importing?

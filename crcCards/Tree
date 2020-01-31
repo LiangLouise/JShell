@@ -1,0 +1,11 @@
+Class name: Tree
+Parent class (if any):Commanad
+Subclasses (if any):
+Responsibilities:
+*Print the files and Directories' out from root to the deepest directory
+
+
+Collaborators:
+* Output
+* OperatorSystem
+*

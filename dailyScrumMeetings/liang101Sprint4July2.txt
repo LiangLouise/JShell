@@ -1,0 +1,10 @@
+What did I do last time?
+    -- Finish the new command tree
+    -- Create some testcases for Tree Command
+    -- Help the other members debug on their works
+
+What do I plan to do now?
+	-- Check if there is any bug still existing
+
+Am I blocked on anything?
+    - N/A

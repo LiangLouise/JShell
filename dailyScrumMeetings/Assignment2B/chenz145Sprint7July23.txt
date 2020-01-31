@@ -1,0 +1,9 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - test all the code
+
+b) What do I plan to work on now?
+       - None
+
+c) Am I blocked on anything?
+       - No

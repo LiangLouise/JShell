@@ -1,0 +1,12 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - make helper method in every command from public to private
+       - Write Testing Cases / Do research for unit testing
+
+b) What do I plan to work on now?
+       - Discuss with teammates for what to do in Sprint6
+       - start to write mv command
+
+c) Am I blocked on anything?
+       - No
+

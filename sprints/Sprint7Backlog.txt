@@ -1,0 +1,54 @@
+//Sprint #7 Backlog.
+July 22nd to July 23rd
+
+User Stories from Product Backlog that we will address in this sprint:
+
+Some new tasks added alone the way we created different commands:
+1. As a JShell User, I want to apply redirection to all valid commands except exit.
+2. As a JShell User, I want to have a build.xml in order to have target to compile/clean/jar/run/junit.
+
+Specific tasks to be accomplished:
+
+1.Testing for bugs in all commands:
+	h-1. change Input according to the redirection function
+	h-2. change command according to the redirection function
+
+2.Preparation for Single Command: (from previous sprints)
+	b-2. (Mv) Implementation for the Mv Command
+	c-2. (Cp) Implementation for the Cp Command
+	f-2. (!number) Implementation for the !number Command
+
+3.Tasks for bonus marks:
+	i-1. (ANT) 
+
+4.Final check for public and private methods/class testing
+3.Unit Tests for all commands
+	a-3. (Ls) Add Test Cases
+	b-3. (Mv) Add Test Cases
+        c-3. (Cp) Add Test Cases
+        d-3. (Cat) Add Test Cases
+        e-3. (Curl) Add Test Cases
+        f-3. (!number) Add Test Cases
+        g-3. (Grep) Add Test Cases
+
+4.Style Check
+	j-1. 80 characters
+	j-2. Honor codes
+	j-3. Author names
+	j-4. Comments / Java Doc
+
+
+These tasks are assigned as follows:
+
+User: liangh21
+Tasks: a-2, a-3,h-1, h-2, j-3, j-4
+
+User: liushina
+Tasks: g-2, g-3, h-1, h-2, j-1, j-2
+
+User: chenz145
+Tasks: d-2, d-3, h-1, h-2, b-2, c-2, b-3, c-3
+
+User: liang101
+Tasks: e-2, f-2, e-3, f-3, h-1, h-2, i-1, i-2
+

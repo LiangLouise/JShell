@@ -1,0 +1,14 @@
+a) What did I work on last time?
+       - Discuss with teammates for what to do in Sprint6
+       - Start improve previous LS method for some left methods :(.././multiple paths)
+       - write test cases for previous classes
+       - a-2, a-3, h-1 from SB6
+
+b) What do I plan to work on now?
+       - Write Testing Cases / Do research for unit testing
+       - Solve the problem that .. may appears in middle of multiple paths
+       - h-2 from SB6
+
+c) Am I blocked on anything?
+       - in LS command, the relative path ".." / "." may appears anywhere, needa pointer to trace the current working directory and also print all of those result in order
+       - what should we implement the format of the recursive call?

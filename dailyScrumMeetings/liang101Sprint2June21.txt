@@ -1,0 +1,9 @@
+What did I do last time?
+    -- Finish the Storage and its subclass's code
+
+What do I plan to do now?
+	-- Begin to write the Mkdir
+	-- Create some test cases for Mkdir command
+
+Am I blocked on anything?
+    - How to consider the different conditions of Path input in Mkdir and Cd

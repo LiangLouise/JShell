@@ -1,0 +1,61 @@
+//Sprint #5 Backlog.
+July 13rd to July 18th
+
+User Stories from Product Backlog that we will address in this sprint:
+
+Some methods finished from previous Assignment
+
+Some new tasks added after previous Assignment
+1. As a JShell User, I want to be able to recursively list all subdirectories (Ls)
+2. As a JShell User, I want to move item from OLDPATH to NEWPATH (Mv)
+3. As a JShell User, I want to copy and paste items from OLDPATH to NEWPATH (Cp)
+4. As a JShell User, I want to display the contents of all FILE when I call CAT method (Cat)
+5. As a JShell User, I want to retrieve the file at specific URL and add it to the current working directory. (Curl)
+6. As a JShell User, I want to immediatly execute the previous command that I entered according to the number I chose (!number)
+7. As a JShell User, I want to print any lines containing REGEX in a file, or recursively traverse the directory for lines containing REGEX (Grep)
+
+Specific tasks to be accomplished:
+
+1.Preparation for Single Command:
+	Finished: a-1. (Ls) Fix remaining bugs from previous code for Ls
+	a-2. (Ls) Add newly added requirements from A2B
+	Finished:a-3. (Ls) Add Test Cases
+	b-1. (Mv) Create CRC Cards
+	b-2. (Mv) Implementation for the Mv Command
+	b-3. (Mv) Add Test Cases
+	c-1. (Cp) Create CRC Cards
+        c-2. (Cp) Implementation for the Cp Command
+        c-3. (Cp) Add Test Cases
+	Finished:d-1. (Cat) Fix remaining bugs from previous code for Cat
+       Finished: d-2. (Cat) Add newly added requirements from A2B
+       Finished: d-3. (Cat) Add Test Cases
+	Finished:e-1. (Curl) Create CRC Cards
+       e-2. (Curl) Implementation for the Curl Command
+    Finished:e-3. (Curl) Add Test Cases
+	Finished:f-1. (!number) Create CRC Cards
+        f-2. (!number) Implementation for the !number Command
+    Finished:f-3. (!number) Add Test Cases
+	Finished:g-1. (Grep) Create CRC Cards
+        g-2. (Grep) Implementation for the Grep Command
+        Finished:g-3. (Grep) Add Test Cases
+    Finished:i-1. (Echo) debug echo
+    Finished:i-2. (Echo) test echo
+2. Redesign the input System and Storage System
+   h-1 implement redirection method used by all commands
+   h-2 update command creating method
+   h-3 update OperateSystem singleton
+   h-4 update file and directory methods to fits new requirements
+
+These tasks are assigned as follows:
+
+User: liangh21
+Tasks: a-2
+
+User: liushina
+Tasks: g2
+
+User: chenz145
+Tasks: d-1, d-3
+
+User: liang101
+Tasks: h1,h2,h3,h4,f2,e2

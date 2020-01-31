@@ -1,0 +1,10 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - finish mv command
+
+b) What do I plan to work on now?
+       - Debug, add more test cases
+       - help checking the whole project
+
+c) Am I blocked on anything?
+       - Can we use echo to achieve redirection?

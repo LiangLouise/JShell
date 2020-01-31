@@ -1,0 +1,13 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - read the requirments carefully and set Sprint and Backlog
+       - Start improve previous LS method for some left methods :(.././multiple paths)
+       - a-1 from SB5
+
+b) What do I plan to work on now?
+       - Write Testing Cases / Do research for unit testing
+       - Update isValid methods so ls can be used in more situations
+       - a-3 from SB5
+
+c) Am I blocked on anything?
+       - No

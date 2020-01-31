@@ -1,0 +1,14 @@
+a) What did I work on last time?
+       - Check the process of the whole system
+       - read the requirments carefully and set Sprint and Backlog
+       - Write Testing Cases / Do research for unit testing
+       - Solve the problems for LS, change the input and output at the same time
+       - a-2, a-3, h-1, h-2 from SB6
+
+b) What do I plan to work on now?
+       - Write Testing Cases / Do research for unit testing
+       - Debug, add more test cases and try to optimize the code
+       - a-2, a-3, h-1, h-2, j-3, j-4 from SB7
+
+c) Am I blocked on anything?
+       - No

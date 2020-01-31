@@ -1,0 +1,8 @@
+What did I do last time?
+g-1, g-3,d-1, d-2,d-3
+    
+What do I plan to do now?
+g-2, g-3, h-1, h-2
+
+Am I blocked on anything?
+    - N/A

@@ -1,0 +1,67 @@
+//Sprint #4 Backlog.  
+June 30th to July 2nd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+
+{Finalization Period, Testing and debuting for all classes and user stories}
+	a) As a JShell user, I want to exit and close the program. ( exit ) -- 3
+	b) As a JShell user, I want to create directory in my current-working-directory (or any address I want to create). ( mkdir DIR ) -- 3
+	c) As a JShell user, I want to check all the files and directories in current-working-directory (or any directory I want to check). ( ls ) -- 3
+	d) As a JShell user, I want to change my current-working-directory to any address I want. ( cd DIR ) -- 3
+	e) As a JShell user, I want to get the address of current-working-directory. ( pwd ) -- 3
+	f) As a JShell user, I want to see the content of a file or several other files. ( cat FILE1 [FILE2] ) -- 6
+	g) As a JShell user, I want to see the content of a file and also be able to write the content in other files. ( echo FILE1 [> FILE2] ) -- 9
+	h) As a JShell user, I want to see the user manual with the usage of all functions for this JShell program. ( man CMD ) -- 9
+	i)As a JShell user, I want to find Directory and file with name input at the specific Directory. (find) -- 7
+	j)As a JShell user, I want to see how all the directories and files are related to the root with a tree-like format. (tree) --3
+
+
+Specific tasks to be accomplished:
+
+{Finalization Period, testing and debuting for all classes and methods}
+
+[Preparation for Single Command]
+	a-1. (Shell) CRCcards to Code
+	a-2. (Shell) TestClasses
+	b-1. (JShell - Driver) Have the shell continually prompt the user for input
+	c-1. (Input) CRCcards to Code
+	c-2. (Input) TestClasses
+	c-3. (Output) CRCcards to Code
+	c-4. (Output) TestClasses
+	d-1. (Storage) CRCcards to Code
+	d-2. (Storage's subclasses - File/Directory/Root) CRCcards to Code
+	d-3. (Storage)TestClasses
+	e-1. (Command) CRCcards to Code
+	e-2. (Command) -- different methods
+	f-2.	(Man)Man Enum
+	f-3.	(OperatingSystem) OperatingSystem
+
+[Single Command + TestClasses]
+	e-3.	exit
+		man
+	e-4.	ls
+	e-5.	pwd
+		cat FILE1 [FILE2]
+	e-6.	push DIR / pop DIR
+	e-7.	echo FILE1 [> FILE2]
+	e-8.	history
+	e-9.   tree
+	f-1. 	(Error)
+
+These tasks are assigned as follows:
+
+User: liangh21
+Tasks: b-1, c-3, c-4, e-3, e-4, f-1, f-2
+
+User: liushina
+Tasks: a-1, a-2, d-1, e-1, e-2, e-5, e-6, f-1, f-3
+
+User: chenz145
+Tasks: c-1, c-2, e-3, e-7, f-1
+
+User: liang101
+Tasks: a-1, d-1, d-2, d-3, e-4, e-8, e-9
+
+
+

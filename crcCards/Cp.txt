@@ -1,0 +1,10 @@
+Class name: Cp
+Parent class (if any):Command
+Subclasses (if any):N/A
+Responsibilities:
+* Copy the file or the entire DIR at the OLDPATH into the new DIR
+if the input NEWPATH is a DIR.
+
+Collaborators:
+* Output
+* OperatorSystem

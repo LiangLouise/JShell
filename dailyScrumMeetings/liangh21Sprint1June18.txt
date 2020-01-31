@@ -1,0 +1,14 @@
+What did I do last time?
+    - worked on JShell, FileStorage and FileOperation
+    - brainstormed design ideas with team about the priorities of different tasks
+    - truned CRCcard of (JShell, Input, Storage, File, Directory) to code with Shinan Liu
+    - b-1
+
+What do I plan to do now?
+    - finish JShell and FileOperation
+    - work on left tasks for sprint1 and new tasks for sprint 2
+        - start and finish IO and Storage
+    - brainstormed with team about the task for srpint 2 and some coding details according to comman variables
+
+Am I blocked on anything?
+    - Not Yet

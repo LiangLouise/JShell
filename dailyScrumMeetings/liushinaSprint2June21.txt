@@ -1,0 +1,14 @@
+a) What did I work on last time?
+       - Updated new crc Cards
+       - Added functions into OperateSystem to search files and directories
+       - Finished Command design and implementation
+       - d-1 from SB1
+
+b) What do I plan to work on now?
+       - Debug the Operate System
+       - Work on Cat, Pwd, Popd and Pushd
+       - d-1, d-2, d-3, e-1, e-5 from SB2
+
+c) Am I blocked on anything?
+       - OperationSystem needs to store history.
+

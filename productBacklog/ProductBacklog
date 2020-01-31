@@ -1,0 +1,13 @@
+UserStory -- Estimate
+As a JShell user, I want to check all the files and directories in current-working-directory (or any directory I want to check). ( ls ) -- 3
+As a JShell user, I want to exit and close the program. ( exit ) -- 3
+As a JShell user, I want to create directory in my current-working-directory (or any address I want to create). ( mkdir DIR ) -- 3
+As a JShell user, I want to change my current-working-directory to any address I want. ( cd DIR ) -- 3
+As a JShell user, I want to get the address of current-working-directory. ( pwd ) -- 3
+As a JShell user, I want to change to another directory but still be able to add/remove previous-working-history. ( push DIR / popd ) -- 6
+As a JShell user, I want to get all/certain number of the commands I ever entered. ( history ) -- 6
+As a JShell user, I want to see the content of a file or several other files. ( cat FILE1 [FILE2] ) -- 6
+As a JShell user, I want to see the content of a file and also be able to write the content in other files. ( echo FILE1 [> FILE2] ) -- 9
+As a JShell user, I want to see the user manual with the usage of all functions for this JShell program. ( man CMD ) -- 9
+As a JShell user, I want to find Directory and file with name input at the specific Directory. (find) -- 7
+As a JShell user, I want to see how all the directories and files are related to the root with a tree-like format. (tree) --3

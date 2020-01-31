@@ -1,0 +1,12 @@
+Class name: Grep
+Parent class (if any):Command
+Subclasses (if any):N/A
+Responsibilities:
+* If no -R, find all the lines in the file of input PATH if it indicates a file
+match the REGEX input
+* If find -R, search all the files in the DIR represented by the input PATH and
+print the file name followed with the line containing the REGEX.
+
+Collaborators:
+* Output
+* OperatorSystem

@@ -1,0 +1,12 @@
+Class name: Path
+Parent class (if any): 
+Subclasses (if any):
+Responsibilities:
+*Generate mutable path data for Files and Directories
+*Present stored path information
+*
+Collaborators:
+*
+*
+*
+
